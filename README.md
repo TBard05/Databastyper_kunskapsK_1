@@ -1,3 +1,3 @@
-# Databastyper_kunskapsK_3
+# Databastyper_kunskapsK_1
 
 Shoppinglis.py är applikationsfilen i mongoDB mappen.
